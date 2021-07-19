@@ -1,2 +1,2 @@
 Hello everyone!
-This repository will add my experience of writing various projects
+This repository is my training and examples of work. 
